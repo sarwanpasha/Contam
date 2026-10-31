@@ -1,0 +1,13 @@
+numpy
+scipy
+pandas
+scikit-learn
+anndata
+scanpy
+igraph
+leidenalg
+torch
+transformers
+huggingface_hub
+datasets
+cellxgene-census

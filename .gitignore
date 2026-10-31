@@ -1,0 +1,10 @@
+data/
+outputs/
+logs/
+envs/
+.tmp/
+.hf/
+__pycache__/
+*.pyc
+code/iqueue/locks/
+code/iqueue/tasks*.txt
